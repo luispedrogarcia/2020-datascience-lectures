@@ -6,3 +6,4 @@ def double_number(a):
 
 print(double_number(3))
 print(double_number(14.22))
+print("Script and Run packages successfully installed")
